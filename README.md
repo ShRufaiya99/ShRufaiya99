@@ -1,6 +1,7 @@
-## Hi there 👋
+## 
 
-<!--
+<!--<img width="2000" height="2000" alt="—Pngtree—assalamu alaikum cartoon with muslimah_6546911" src="https://github.com/user-attachments/assets/3c9ba47a-ea30-4b58-967c-f18b650e489d" />
+
 **ShRufaiya99/ShRufaiya99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
